@@ -14,7 +14,7 @@ Le jeu Tic-Tac-Toe, également connu sous le nom de "Morpion", est un jeu de soc
 
 ## Jouez en ligne
 Vous pouvez jouer au jeu en ligne en cliquant sur le lien ci-dessous :
-[**Jouer à Tic-Tac-Toe**](lien_vers_votre_jeu_en_ligne)
+[**Jouer à Tic-Tac-Toe**](https://lamine2002.github.io/Project-Tic-Tac-Toe)
 
 ## Fonctionnalités
 - Interface utilisateur conviviale.
